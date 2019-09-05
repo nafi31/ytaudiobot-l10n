@@ -54,6 +54,7 @@ en_GB | English - United Kingdom
 en_US | English - United States
 en_ZW | English - Zimbabwe
 et_EE | Estonian - Estonia
+Et_AM | Ethiopian - Amharic
 fo_FO | Faroese - Faroe Islands
 fa_IR | Farsi - Iran
 fi_FI | Finnish - Finland
